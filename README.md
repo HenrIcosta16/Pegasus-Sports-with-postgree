@@ -19,7 +19,7 @@ Este projeto implementa a aplicação **Pegasus-Sports** com integração ao ban
 
 2. **Criar o Banco de Dados**
 
-   Agora, crie o banco de dados **pegasus_db**:
+   Agora, crie o banco de dados **pegasus_db**:git push origin main
 
    ```bash
    "C:\Program Files\PostgreSQL\18\bin\psql.exe" -U postgres -c "CREATE DATABASE pegasus_db;"
